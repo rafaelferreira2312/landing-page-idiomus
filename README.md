@@ -28,7 +28,7 @@ O projeto foi desenvolvido com foco em:
 
    - **Navegue até a pasta do projeto**:
         ```bash
-        cd landing-page-rota-da-fluencia
+        cd landing-page-idiomus
         ```
 
     - **Abra o arquivo index.html no seu navegador**.
