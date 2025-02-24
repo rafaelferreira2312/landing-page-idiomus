@@ -82,8 +82,18 @@ landing-page/
 
 9. **SEO**
 
-    - Meta tags como title, description, keywords, og:title, og:description e og:image - foram adicionadas para melhorar a indexação e o compartilhamento em redes sociais.
+    - Meta tags como title, description, keywords, og:title, og:description e og:image foram adicionadas para melhorar a indexação e o compartilhamento em redes sociais.
 
 10. **Interatividade**
 
     - O botão CTA redireciona para a página oficial da Idiomus (https://idiomus.com/).
+
+## 📄 Documentação Adicional
+
+Para mais detalhes sobre as decisões de design e desenvolvimento, consulte o arquivo [PDF](documentacao.pdf) incluso no projeto.
+
+## 📧 Contato
+
+Se tiver alguma dúvida ou sugestão, entre em contato:
+- **Email**: rafaelferreira2312@gmail.com   
+- **LinkedIn**: [Rafael Ferreira da Silva](https://www.linkedin.com/in/rafael2312/)
